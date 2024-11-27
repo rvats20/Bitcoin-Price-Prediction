@@ -1,6 +1,3 @@
-Sure! Here's a sample README for your "Bitcoin Price Prediction" GitHub repository:
-
----
 
 # Bitcoin Price Prediction
 
